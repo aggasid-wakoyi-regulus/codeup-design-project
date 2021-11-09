@@ -355,3 +355,55 @@ i {
         padding-left: 65px;
     }
 }
+
+/*Big Circle*/
+
+
+.big-button-red {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    line-height: 110px;
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    border: solid white 8px;
+    background-color: #EB9D3A;
+    }
+
+.big-button-yellow {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    line-height: 110px;
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    border: solid white 8px;
+    background-color: #E6563B;
+    }
+
+.big-button-green {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    line-height: 110px;
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    border: solid white 8px;
+    background-color: #7CB06C;
+    }
+
+.big-button-blue {
+    color: white;
+    font-size: 22px;
+    text-align: center;
+    line-height: 110px;
+    width: 128px;
+    height: 128px;
+    border-radius: 64px;
+    border: solid white 8px;
+    background-color: #00ABA9;
+    }
+
